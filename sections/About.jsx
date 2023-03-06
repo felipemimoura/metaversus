@@ -34,7 +34,6 @@ const About = () => (
       </motion.p>
       <motion.img variants={fadeIn('up', 'tween', 0.3, 1)} src="/arrow-down.svg" alt="arrow down" className="w-[18px] h-7 object-contain mt-7 mx-auto" />
     </motion.div>
-    About section
   </section>
 );
 
